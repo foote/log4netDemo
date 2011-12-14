@@ -1,0 +1,4 @@
+2011-12-13 15:01:28,223 [9] WARN  frmLog4NetTester [(null)] <(null)> - Warning - Danger
+[Footer]
+2011-12-13 16:53:52,543 [9] WARN  frmLog4NetTester [(null)] <(null)> - Warning - Danger
+[Footer]
