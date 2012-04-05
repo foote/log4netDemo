@@ -10,3 +10,6 @@
 \\appdata2.fvtc.edu\userdata$\foote\my documents\visual studio 2010\Projects\DemoLog4net\DemoLog4net\bin\Debug\log4net.xml
 \\appdata2.fvtc.edu\userdata$\foote\my documents\visual studio 2010\Projects\DemoLog4net\DemoLog4net\obj\x86\Debug\DemoLog4net.exe
 \\appdata2.fvtc.edu\userdata$\foote\my documents\visual studio 2010\Projects\DemoLog4net\DemoLog4net\obj\x86\Debug\DemoLog4net.pdb
+C:\Users\Public\log4netDemo\DemoLog4net\bin\Debug\DemoLog4net.exe.config
+C:\Users\Public\log4netDemo\DemoLog4net\obj\x86\Debug\DemoLog4net.exe
+C:\Users\Public\log4netDemo\DemoLog4net\obj\x86\Debug\DemoLog4net.pdb

@@ -38,7 +38,7 @@ namespace DemoLog4net
 
         private void frmLog4Net_Load(object sender, EventArgs e)
         {
-
+            ///   New Comment
         }
 
     }
